@@ -1,0 +1,16 @@
+2020-07-04 17:54:53 INFO  Browser:14 - Set Property
+2020-07-04 17:54:53 INFO  Browser:16 - Open Blank Browser
+2020-07-04 17:57:19 INFO  Browser:14 - Set Property
+2020-07-04 17:57:19 INFO  Browser:16 - Open Blank Browser
+2020-07-04 17:57:23 INFO  Browser:18 - Pass the URL
+2020-07-04 18:00:53 INFO  Browser:15 - Set Property
+2020-07-04 18:00:53 INFO  Browser:17 - Open Blank Browser
+2020-07-04 18:00:57 INFO  Browser:19 - Pass the URL
+2020-07-04 18:01:03 INFO  Browser:21 - Enter Username
+2020-07-04 18:02:31 INFO  Browser:15 - Set Property
+2020-07-04 18:02:31 INFO  Browser:17 - Open Blank Browser
+2020-07-04 18:02:35 INFO  Browser:19 - Pass the URL
+2020-07-04 18:02:37 INFO  Browser:21 - Enter Username
+2020-07-04 18:02:37 INFO  Browser:23 - Enter Password
+2020-07-04 18:02:37 INFO  Browser:25 - click on login button
+2020-07-04 18:02:37 INFO  Browser:27 - Quite the driver
