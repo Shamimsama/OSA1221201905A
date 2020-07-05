@@ -14,6 +14,9 @@ import org.testng.annotations.Test;
 
 public class TestNG_Basic {
 public WebDriver dr;
+	
+	public void add(){
+	}
 
 		@BeforeMethod
 		@Parameters({"url", "browser"})
